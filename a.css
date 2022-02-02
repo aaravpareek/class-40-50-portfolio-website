@@ -1,0 +1,36 @@
+h1{
+    color:blueviolet
+    
+}
+unique{
+    background-color:palevioletred;
+    display:flex;
+    justify-content: space-around ;
+}
+.grammer{
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.different{
+
+    display:flex;
+    justify-content: flex-end;
+
+}
+
+p{
+
+    text-align: center;
+
+
+}
+
+h1{
+
+     text-align: center;
+
+}
